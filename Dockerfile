@@ -1,4 +1,3 @@
-Instructor explain the Dockerfile file
 FROM node:16-alpine
 WORKDIR /my-app
 COPY package*.json ./
